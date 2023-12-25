@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm SunnyEmbrace
 
 <a href="https://github.com/qiuapeng921">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qiuapeng921&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qiuapeng921&show_icons=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/qiuapeng921">
